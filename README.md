@@ -5,7 +5,7 @@
 
 > Una aplicación web interactiva diseñada para la gestión y control de citas en una clínica veterinaria, permitiendo el registro, edición y eliminación de pacientes en tiempo real con una arquitectura orientada a objetos.
 
-**[🔗 Ver Demo en Vivo](https://pabloramirezcasas.github.io/tu-repositorio/)**
+**[🔗 Ver Demo en Vivo]( https://pabloramirezcasas.github.io/administrador-de-citas-JS-Vanilla-POO/)**
 
 ![Estado](https://img.shields.io/badge/Estado-Completado-green)
 
